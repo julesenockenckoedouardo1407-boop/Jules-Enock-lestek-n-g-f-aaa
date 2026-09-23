@@ -1,0 +1,8 @@
+PROJET JULES ENOCK LESTEKE — JWÈT MAB
+
+1. Importer tout le contenu de ce dossier dans le dépôt GitHub.
+2. Le seul workflow à garder est .github/workflows/build-apk.yml.
+3. Aller dans Actions > Construire APK Android > Run workflow.
+4. À la fin, télécharger l'artefact Jules-Enock-Lesteke-Jwet-Mab-APK.
+
+Ne pas créer de main.yml séparé.

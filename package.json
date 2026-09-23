@@ -1,0 +1,9 @@
+{
+  "name": "jules-enock-lesteke",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Jules Enock Lestekè — Jwèt Mab Android app",
+  "scripts": {"build:android": "npx cap sync android"},
+  "dependencies": {"@capacitor/android": "7.4.3", "@capacitor/core": "7.4.3"},
+  "devDependencies": {"@capacitor/assets": "3.0.5", "@capacitor/cli": "7.4.3"}
+}
